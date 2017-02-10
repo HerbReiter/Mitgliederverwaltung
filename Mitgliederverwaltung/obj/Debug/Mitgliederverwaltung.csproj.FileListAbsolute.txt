@@ -1,0 +1,9 @@
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\bin\Debug\Mitgliederverwaltung.exe.config
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\bin\Debug\Mitgliederverwaltung.exe
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\bin\Debug\Mitgliederverwaltung.pdb
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.DlgSave.resources
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.Form3.resources
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.Properties.Resources.resources
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.csproj.GenerateResource.Cache
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.exe
+C:\Users\Herbert\Documents\Visual Studio 2015\Projects\Mitgliederverwaltung\Mitgliederverwaltung\obj\Debug\Mitgliederverwaltung.pdb
